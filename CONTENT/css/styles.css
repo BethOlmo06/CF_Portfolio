@@ -210,12 +210,21 @@ img {
   letter-spacing: 0.75px;
 }
 
+.section-title-01 h2 {
+    font-size: 36px;
+    font-weight: 700;
+    color: #222;
+    margin: 10px 0 0;
+    /*text-transform: uppercase;*/
+    letter-spacing: 1px;
+}
+
 .section-title-01 h3 {
   font-size: 30px;
   font-weight: 700;
   color: #222;
   margin: 10px 0 0;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   letter-spacing: 1px;
 }
 
