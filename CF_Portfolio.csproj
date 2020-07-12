@@ -69,9 +69,12 @@
   <ItemGroup>
     <Content Include="CONTENT\img\Beth_site_identity.png" />
     <Content Include="CONTENT\img\EKO_brickwall_best copy.jpg" />
+    <Content Include="CONTENT\img\FizzBuzz1.png" />
+    <Content Include="CONTENT\img\LancoRubberDuck.jpg" />
     <Content Include="CONTENT\img\Matrix_kitty.png" />
     <Content Include="CONTENT\img\Matrix_kitty_blue.png" />
     <Content Include="CONTENT\img\Beth_sig.png" />
+    <Content Include="CONTENT\img\Sunset hills.png" />
     <Content Include="CONTENT\img\TechStack %281%29.png" />
     <Content Include="CONTENT\img\TechStack2.png" />
     <Content Include="CONTENT\img\TechStack3.png" />

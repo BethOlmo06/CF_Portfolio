@@ -219,8 +219,8 @@ Copyright (c) 2018 - mital_04
             loop:true,
             strings: [
               'Full Stack Developer',
-                'Another cool thing',
-              'One last cool thing'
+                'Creative', 
+                'Maker'
             ],
             breakLines: false
         }); 
