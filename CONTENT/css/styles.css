@@ -265,6 +265,25 @@ img {
   background-color: #fff;
 }
 
+.m-btn-wine {
+    color: #fff;
+    background-color: #92234a;
+    height: 45px;
+    line-height: 45px;
+    padding: 0 30px;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    font-weight: 500;
+    border: none;
+    border-radius: 3px;
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    outline: none;
+    display: inline-block;
+    text-decoration: none !important;
+}
+
 .m-btn-white:hover {
   color: #fff;
 }
@@ -763,11 +782,12 @@ img {
 * Header option 2
 -----------------------------------*/
 .header-nav-01 {
-  padding: 15px 10px;
-  -webkit-transition: all 0.2s ease;
-     -moz-transition: all 0.5s ease;
-       -o-transition: all 0.2s ease;
-          transition: all 0.2s ease;
+    background: #487d3f;
+    padding: 15px 10px;
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.2s ease;
+    transition: all 0.2s ease;
 }
 .header-nav-01 .navbar-toggler span {
   background: #fff;
@@ -1024,15 +1044,15 @@ div#particles-box {
 }
 
 .home-banner-01 h5 {
-  color: #fff;
+  color: #000;
   font-size: 90px;
   font-weight: 600;
   margin: 0 0 20px;
   line-height: 90px;
 }
 .home-banner-01 p{
-  color: #fff;
-  font-size: 20px;
+  color: #000;
+  font-size: 30px;
   font-weight: 600;
   margin: 0 0 40px;
 }
@@ -1074,11 +1094,13 @@ div#particles-box {
   }
   .home-banner-01 h5 {
     font-size: 40px;
+    color: #000;
     line-height: 40px;
     margin: 0 0 10px;
   }
   .home-banner-01 p {
     font-size: 16px;
+    color: #000;
     margin: 0 0 25px;
   }
 }
