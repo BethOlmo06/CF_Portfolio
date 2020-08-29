@@ -69,12 +69,14 @@
   <ItemGroup>
     <Content Include="CONTENT\img\Beth_banner2_Aug2020.jpg" />
     <Content Include="CONTENT\img\Beth_site_identity.png" />
+    <Content Include="CONTENT\img\ComingSoon400x200.png" />
     <Content Include="CONTENT\img\EKO_brickwall_best copy.jpg" />
     <Content Include="CONTENT\img\FizzBuzz1.png" />
     <Content Include="CONTENT\img\GitHub-Mark-64px.png" />
     <Content Include="CONTENT\img\LancoRubberDuck.jpg" />
     <Content Include="CONTENT\img\LI_bw copy.png" />
     <Content Include="CONTENT\img\LI_bw.png" />
+    <Content Include="CONTENT\img\Logo400x200.png" />
     <Content Include="CONTENT\img\Matrix_kitty.png" />
     <Content Include="CONTENT\img\Matrix_kitty_blue.png" />
     <Content Include="CONTENT\img\Beth_sig.png" />

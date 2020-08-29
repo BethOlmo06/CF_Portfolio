@@ -252,4 +252,7 @@ Copyright (c) 2018 - mital_04
         KEIRA.HeaderFixed();
     });
 
+    //Issue Tracker Popup
+    
+
 })(jQuery);
