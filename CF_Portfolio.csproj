@@ -163,6 +163,7 @@
     <Content Include="CONTENT\plugin\themify-icons\fonts\themify.ttf" />
     <Content Include="CONTENT\plugin\themify-icons\fonts\themify.woff" />
     <Content Include="CONTENT\img\BethOlmoDevResume2020.pdf" />
+    <Content Include="CONTENT\img\BethOlmoFINALResume.pdf" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
